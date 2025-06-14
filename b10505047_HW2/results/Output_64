@@ -1,0 +1,114 @@
+Enter the GPU ID: 0
+Set GPU with device ID = 0
+Vector Trace (Sum of Elements)
+Size of the vector: 81920007
+Enter the number (2^m) of threads per block: 64
+Enter the number of blocks per grid: 1024
+Input time for GPU: 46.207264 (ms)
+Processing time for GPU: 2.470304 (ms)
+GPU Gflops: 33.161913
+Output time for GPU: 6.757600 (ms)
+Total time for GPU: 55.435165 (ms)
+Processing time for CPU: 64.571587 (ms)
+CPU Gflops: 1.268670
+Speedup of GPU = 1.164813
+Check result:
+|(h_G - h_D)/h_D|=2.483338139500741e-07
+h_G =3.980281477928162e+03
+h_D =3.980282466366887e+03
+
+Enter the GPU ID: 0
+Set GPU with device ID = 0
+Vector Trace (Sum of Elements)
+Size of the vector: 81920007
+Enter the number (2^m) of threads per block: 64
+Enter the number of blocks per grid: 512
+Input time for GPU: 46.252609 (ms)
+Processing time for GPU: 2.405440 (ms)
+GPU Gflops: 34.056141
+Output time for GPU: 6.755872 (ms)
+Total time for GPU: 55.413921 (ms)
+Processing time for CPU: 64.631805 (ms)
+CPU Gflops: 1.267488
+Speedup of GPU = 1.166346
+Check result:
+|(h_G - h_D)/h_D|=2.326164507808130e-06
+h_G =3.980291725158691e+03
+h_D =3.980282466366887e+03
+
+Enter the GPU ID: 0
+Set GPU with device ID = 0
+Vector Trace (Sum of Elements)
+Size of the vector: 81920007
+Enter the number (2^m) of threads per block: 64
+Enter the number of blocks per grid: 256
+Input time for GPU: 46.285023 (ms)
+Processing time for GPU: 2.362144 (ms)
+GPU Gflops: 34.680361
+Output time for GPU: 6.759328 (ms)
+Total time for GPU: 55.406494 (ms)
+Processing time for CPU: 64.646690 (ms)
+CPU Gflops: 1.267196
+Speedup of GPU = 1.166771
+Check result:
+|(h_G - h_D)/h_D|=2.062604884361501e-06
+h_G =3.980290676116943e+03
+h_D =3.980282466366887e+03
+
+Enter the GPU ID: 0
+Set GPU with device ID = 0
+Vector Trace (Sum of Elements)
+Size of the vector: 81920007
+Enter the number (2^m) of threads per block: 64
+Enter the number of blocks per grid: 128
+Input time for GPU: 47.114239 (ms)
+Processing time for GPU: 3.495456 (ms)
+GPU Gflops: 23.436143
+Output time for GPU: 6.754528 (ms)
+Total time for GPU: 57.364223 (ms)
+Processing time for CPU: 64.630913 (ms)
+CPU Gflops: 1.267505
+Speedup of GPU = 1.126676
+Check result:
+|(h_G - h_D)/h_D|=1.617645857584149e-06
+h_G =3.980276027679443e+03
+h_D =3.980282466366887e+03
+
+Enter the GPU ID: 0
+Set GPU with device ID = 0
+Vector Trace (Sum of Elements)
+Size of the vector: 81920007
+Enter the number (2^m) of threads per block: 64
+Enter the number of blocks per grid: 64
+Input time for GPU: 45.992542 (ms)
+Processing time for GPU: 6.182560 (ms)
+GPU Gflops: 13.250176
+Output time for GPU: 6.756320 (ms)
+Total time for GPU: 58.931423 (ms)
+Processing time for CPU: 64.780479 (ms)
+CPU Gflops: 1.264579
+Speedup of GPU = 1.099252
+Check result:
+|(h_G - h_D)/h_D|=4.139192654995348e-06
+h_G =3.980265991210938e+03
+h_D =3.980282466366887e+03
+
+Enter the GPU ID: 0
+Set GPU with device ID = 0
+Vector Trace (Sum of Elements)
+Size of the vector: 81920007
+Enter the number (2^m) of threads per block: 64
+Enter the number of blocks per grid: 32
+Input time for GPU: 45.820290 (ms)
+Processing time for GPU: 11.585696 (ms)
+GPU Gflops: 7.070788
+Output time for GPU: 6.756800 (ms)
+Total time for GPU: 64.162788 (ms)
+Processing time for CPU: 64.603424 (ms)
+CPU Gflops: 1.268044
+Speedup of GPU = 1.006867
+Check result:
+|(h_G - h_D)/h_D|=3.458729627187689e-06
+h_G =3.980268699645996e+03
+h_D =3.980282466366887e+03
+

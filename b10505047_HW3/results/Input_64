@@ -1,0 +1,10 @@
+GPU_ID
+64
+4 4 4
+2
+
+=============
+GPU_ID        device number to be assigned by condor
+lattice size
+block size (tx, ty, tz)
+compute the solution vector with CPU/GPU/both (0/1/2)

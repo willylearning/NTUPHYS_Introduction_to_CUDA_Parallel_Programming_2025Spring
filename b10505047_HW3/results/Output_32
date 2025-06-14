@@ -1,0 +1,22 @@
+Enter the GPU ID (0/1): 0
+Select GPU with device ID = 0
+Solve Poisson equation on a 3D lattice with boundary conditions
+Enter the size L of the 3D lattice: 32
+Enter the number of threads (tx,ty,tz) per block: 4 4 4
+The dimension of the grid is (8, 8, 8)
+To compute the solution vector with CPU/GPU/both (0/1/2) ? 2
+
+Input time for GPU: 0.212384 (ms) 
+error (GPU) = 0.000000000000000e+00
+total iterations (GPU) = 2876
+Processing time for GPU: 57.062943 (ms) 
+GPU Gflops: 9.525692
+Output time for GPU: 0.089184 (ms) 
+Total time for GPU: 57.364510 (ms) 
+
+error (CPU) = 0.000000000000000e+00
+total iterations (CPU) = 2876
+Processing time for CPU: 508.787292 (ms) 
+CPU Gflops: 1.068352
+Speed up of GPU = 8.869374
+

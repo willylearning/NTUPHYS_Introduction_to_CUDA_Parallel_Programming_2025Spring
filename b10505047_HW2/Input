@@ -1,0 +1,10 @@
+GPU_ID
+1024
+512
+
+
+=============
+GPU_ID     device number to be assigned by condor
+block size
+grid size
+

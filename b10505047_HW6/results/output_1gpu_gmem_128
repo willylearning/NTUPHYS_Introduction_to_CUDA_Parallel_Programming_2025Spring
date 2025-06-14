@@ -1,0 +1,84 @@
+Set GPU with device ID = 0
+To find the histogram of a data set (with real numbers): 
+Enter the size of the data vector: 81920000
+Enter the data range [Rmin, Rmax] for the histogram: 0.000000 20.000000
+Enter the number of bins of the histogram: 128
+Starting to generate data by RNG
+Finish the generaton of data
+Enter the number of threads per block: 128
+Enter the number of blocks per grid: 1024
+The number of blocks is 1024
+To compute the histogram with CPU (1/0) ? 1
+Mon May 12 00:19:45 CST 2025
+Input time for GPU: 47.236546 (ms) 
+Processing time for GPU: 36.111359 (ms) 
+GPU Gflops: 4.537077
+Output time for GPU: 3.586400 (ms) 
+Total time for GPU: 86.934303 (ms) 
+Processing time for CPU: 150.846970 (ms) 
+CPU Gflops: 1.086134
+Speed up of GPU = 1.735183
+
+Set GPU with device ID = 0
+To find the histogram of a data set (with real numbers): 
+Enter the size of the data vector: 81920000
+Enter the data range [Rmin, Rmax] for the histogram: 0.000000 20.000000
+Enter the number of bins of the histogram: 128
+Starting to generate data by RNG
+Finish the generaton of data
+Enter the number of threads per block: 128
+Enter the number of blocks per grid: 4096
+The number of blocks is 4096
+To compute the histogram with CPU (1/0) ? 1
+Mon May 12 00:46:36 CST 2025
+Input time for GPU: 47.504833 (ms) 
+Processing time for GPU: 36.094975 (ms) 
+GPU Gflops: 4.539136
+Output time for GPU: 3.610368 (ms) 
+Total time for GPU: 87.210175 (ms) 
+Processing time for CPU: 152.812668 (ms) 
+CPU Gflops: 1.072162
+Speed up of GPU = 1.752234
+
+Set GPU with device ID = 0
+To find the histogram of a data set (with real numbers): 
+Enter the size of the data vector: 81920000
+Enter the data range [Rmin, Rmax] for the histogram: 0.000000 20.000000
+Enter the number of bins of the histogram: 128
+Starting to generate data by RNG
+Finish the generaton of data
+Enter the number of threads per block: 128
+Enter the number of blocks per grid: 65536
+The number of blocks is 65536
+To compute the histogram with CPU (1/0) ? 1
+Mon May 12 00:23:01 CST 2025
+Input time for GPU: 46.878719 (ms) 
+Processing time for GPU: 36.105759 (ms) 
+GPU Gflops: 4.537780
+Output time for GPU: 3.590880 (ms) 
+Total time for GPU: 86.575363 (ms) 
+Processing time for CPU: 152.798111 (ms) 
+CPU Gflops: 1.072265
+Speed up of GPU = 1.764915
+
+Set GPU with device ID = 0
+To find the histogram of a data set (with real numbers): 
+Enter the size of the data vector: 81920000
+Enter the data range [Rmin, Rmax] for the histogram: 0.000000 20.000000
+Enter the number of bins of the histogram: 128
+Starting to generate data by RNG
+Finish the generaton of data
+Enter the number of threads per block: 128
+Enter the number of blocks per grid: 640000
+The number of blocks is 640000
+To compute the histogram with CPU (1/0) ? 1
+Mon May 12 00:24:37 CST 2025
+Input time for GPU: 47.207424 (ms) 
+Processing time for GPU: 36.105888 (ms) 
+GPU Gflops: 4.537764
+Output time for GPU: 3.592448 (ms) 
+Total time for GPU: 86.905754 (ms) 
+Processing time for CPU: 150.780121 (ms) 
+CPU Gflops: 1.086615
+Speed up of GPU = 1.734984
+

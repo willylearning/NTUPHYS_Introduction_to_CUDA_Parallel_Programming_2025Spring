@@ -1,0 +1,15 @@
+Enter the GPU ID: 0
+Set GPU with device ID = 0
+Vector Addition: C = 1/A + 1/B
+Block size = 16
+Input time for GPU: 38.394718 (ms) 
+Processing time for GPU: 16.126080 (ms) 
+GPU Gflops: 0.001191
+Output time for GPU: 49.847424 (ms) 
+Total time for GPU: 104.368225 (ms) 
+Processing time for CPU: 0.038496 (ms) 
+CPU Gflops: 0.498753
+Speed up of GPU = 0.000369
+Check result:
+norm(h_C - h_D) = 0.000000000000000e+00
+

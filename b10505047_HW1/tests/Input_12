@@ -1,0 +1,7 @@
+GPU_ID             
+12
+
+
+========= Input parameters =====
+GPU_ID        device number to be assigned by condor
+block_size
