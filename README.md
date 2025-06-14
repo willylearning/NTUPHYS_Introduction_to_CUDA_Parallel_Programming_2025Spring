@@ -1,2 +1,2 @@
-# NYUPHYS_Introduction_to_CUDA_Parallel_Programming_2025Spring-
-NYUPHYS Introduction to CUDA Parallel Programming 2025Spring (Prof. Ting-Wai Chiu)
+# NYUPHYS_Introduction_to_CUDA_Parallel_Programming_2025Spring
+5 homeworks for the course "Introduction to Cuda Parallel Programming", 2025 Spring
